@@ -14,17 +14,29 @@
     {
       "title": "Formatting",
       "anchor": "#formatting",
-      "keywords": []
+      "keywords": [
+        "title page"
+      ]
     },
     {
       "title": "In-Text Citations",
       "anchor": "#intext",
-      "keywords": []
+      "keywords": [
+        "parenthetical",
+        "narrative citation",
+        "quoting",
+        "paraphrasing"
+      ]
     },
     {
       "title": "References",
       "anchor": "#references",
-      "keywords": []
+      "keywords": [
+        "reference list",
+        "bibliography",
+        "works cited",
+        "hanging indent"
+      ]
     },
     {
       "title": "Style and Grammar",
@@ -39,7 +51,10 @@
     {
       "title": "Citation Generator",
       "anchor": "#generator",
-      "keywords": []
+      "keywords": [
+        "citation machine",
+        "make a citation"
+      ]
     }
   ]
 }
